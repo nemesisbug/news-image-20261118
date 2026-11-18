@@ -1,46 +1,51 @@
-# The Day in Six Frames — 18 November 2026
+# The World in One Day — 18 November 2026
 
 [![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![rank](https://make.fun/badge/news-image-20261118/nemesisbug/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![reward](https://make.fun/badge/news-image-20261118/nemesisbug/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
-**The world in one day — Wednesday 18 November 2026, told as a comic strip.**
+**The world in one day — Wednesday 18 November 2026, as a dense front page.**
 Entry for [make.fun's "Sum up 18 November's world news in one image"](https://make.fun/bounty/news-image-20261118) bounty ($250 in USDC, top 50 paid).
 
-![The Day in Six Frames](entry.png)
+![The World in One Day](entry.png)
 
 ## The concept
 
-Six frames, six stories — a storyboard of the day instead of a newspaper page.
-Each panel is a small flat-drawn scene with a big headline, a one-line summary
-and a location tag, so the whole day reads at a glance, even at 300 pixels wide.
-A masthead names the day up top; an "Also in brief" ticker and a sources line
-close the page at the bottom.
+A newspaper front page, not a comic strip: 36 real stories in three columns —
+headline + one-line summary each — under a masthead, a schematic world map
+with pins for the six lead stories, and a "By the numbers" strip. The day's
+news at a glance, the way the highest-ranked front pages do it: breadth first,
+every headline verified against 18 November 2026 editions.
 
-## The six stories
+## The 36 stories
 
-1. **GULF — Bahrain sounds all-clear as Gulf tensions flare.** Bahrain lifts its
-   shelter alert as Kuwait's air defences down drones; the US hits an Iranian
-   missile site after Iran targeted a US radar base in Bahrain.
-2. **EUROPE — Ukraine hits Crimea bridge a second day.** Kyiv strikes the Kerch
-   Bridge for a second straight day as Russia pounds bridges in Kyiv.
-3. **DIPLOMACY — Trump lands in Manila for Quad talks.** Trump arrives in Manila
-   for Quad talks ahead of his China visit, as ASEAN and East Asia Summit leaders
-   meet.
-4. **BUSINESS — Nvidia doubles revenue without Huang.** Nvidia posts $115.8bn
-   quarterly revenue, up 103% year on year — its first report since CEO Jensen
-   Huang resigned.
-5. **MIDDLE EAST — Britain sanctions settlement firms.** The UK sanctions eight
-   firms over illegal West Bank settlements; Australia announces fresh sanctions
-   too.
-6. **TRADE — Canada and China extend trade deals.** Canada and China extend trade
-   deals as Xi meets Carney ahead of the APEC summit.
+Gulf tensions (Bahrain all-clear, Kuwait downs drones) · Ukraine hits the
+Crimea bridge a second day · Trump lands in Manila for Quad talks · Nvidia
+doubles revenue to $115.8bn without Huang · Knesset elects Kahana speaker
+66–52, ousting a Netanyahu ally · Global stocks sink in the AI-trade unwind ·
+Anthropic prices its record $64.4bn IPO · Britain sanctions settlement firms ·
+Canada–China extend trade deals · Seoul's emergency Java-flaw talks · Peoria
+biofuel-plant bomb threat · Estonia to shut its Russia border · Prague's
+huge free-media rally · Russia–Ukraine drone strikes amid Abu Dhabi talks ·
+France tests its upgraded M51.3 missile · French student protests swell ·
+Spain's general strike · IMF lifts Germany's forecast to 1.3% · Trump touts
+Russian diesel after a Putin call · England in drought across 82% of its land ·
+Modi's e-visa push at ASEAN · India re-elected to the ITU Council · US presses
+a UN body over Taiwan flights · Dhoni retires from the IPL, becomes CSK mentor ·
+Jay Shah re-elected ICC chairman · Deutsche Bank 'ignored risk warnings' ·
+Trump's BBC deposition deadline extended · St Kitts ends citizenship sales ·
+US loses measles-free status · UN: 372 civilians killed in Ukraine in October ·
+Gaza families down to one hot meal in two days · Japan's exports rise a 14th
+month · SpaceX catches a falling Starship · Cyclone Akvan grows in the Bay of
+Bengal · Kulbergs government wins its vote · Amazon pledges $7bn for renewables
+in India.
 
-**Also in brief:** Dhoni retires from IPL and becomes CSK mentor · Cyclone Akvan
-strengthens in the Bay of Bengal · Latvia approves the Kulbergs government ·
-Amazon pledges $7bn for renewables in India.
+**By the numbers:** $115.8bn Nvidia revenue · 66–52 Knesset vote · $64.4bn
+Anthropic IPO · $64,863 Bitcoin · 82% of England in drought · 372 killed in
+Ukraine in October.
 
-Sources: Reuters · AP · BBC · TechCrunch · Al Jazeera — 18 November 2026.
+Sources: Reuters · AP · BBC · The Guardian · Al Jazeera · Hindustan Times —
+18 November 2026.
 
 ## How it was made
 
