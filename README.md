@@ -1,8 +1,8 @@
 # The Day in Six Frames — 18 November 2026
 
-[![news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
-[![rank](https://make.fun/badge/news-image-20261118/rank.svg?repo=nemesisbug/news-image-20261118)](https://make.fun/bounty/news-image-20261118)
-[![reward](https://make.fun/badge/news-image-20261118/reward.svg?repo=nemesisbug/news-image-20261118)](https://make.fun/bounty/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/nemesisbug/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/nemesisbug/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 **The world in one day — Wednesday 18 November 2026, told as a comic strip.**
 Entry for [make.fun's "Sum up 18 November's world news in one image"](https://make.fun/bounty/news-image-20261118) bounty ($250 in USDC, top 50 paid).
